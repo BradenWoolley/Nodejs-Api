@@ -1,9 +1,9 @@
 var Twitter = require('twitter');
 const prompt = require('prompt-sync')({ sigint: true });
-const key = 'fGpaotxyTGJQcN2ae1CgbKXmB';
-const secretKey = '09VLSOKQiRFT2qKqwn70NaGFhLUlD10KIxieHxF2pKZkxKsNF8';
-const token = '1323671367338909702-hJKKpxRdpekZKZcdxmUOTcGny3LytR';
-const secretToken = 'Whol6fgZfnI8fN9HDCxzyuQXVHrJgVZNPtuiqcQGEqVxi';
+const key = 'YourKeyHere';
+const secretKey = 'YourKeyHere';
+const token = 'YourKeyHere';
+const secretToken = 'YourKeyHere';
 
 var twitterClient = new Twitter({
     consumer_key: key,

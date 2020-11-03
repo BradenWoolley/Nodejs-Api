@@ -1,5 +1,5 @@
 const prompt = require('prompt-sync')({ sigint: true });
-const omdbKey = 'a7e991eb';
+const omdbKey = 'YourKeyHere';
 const request = require('request');
 
 //User Search 

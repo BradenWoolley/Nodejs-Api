@@ -1,8 +1,8 @@
 const prompt = require('prompt-sync')({ sigint: true });
 var Spotify = require('node-spotify-api')
 var spotify = new Spotify({
-    id: 'f4a9cd6aa55d42648e4a5cc78089d311',
-    secret: '0f6788a6bea445f5b0b98f470662ac4f'
+    id: 'YourKeyHere',
+    secret: 'YourKeyHere'
 });
 
 //User searches song
