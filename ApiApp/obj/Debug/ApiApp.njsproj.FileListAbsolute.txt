@@ -1,0 +1,3 @@
+C:\Users\Braden\Desktop\Woolley_Braden_WPR381_Assignment1\ApiApp\ApiApp\obj\Debug\ApiApp.njsprojAssemblyReference.cache
+C:\Users\Braden\Desktop\Woolley_Braden_WPR381_Assignment1\ApiApp\ApiApp\obj\Debug\ApiApp.njsproj.CoreCompileInputs.cache
+C:\Users\Braden\Desktop\Woolley_Braden_WPR381_Assignment1\ApiApp\ApiApp\bin\Microsoft.NodejsTools.WebRole.dll
